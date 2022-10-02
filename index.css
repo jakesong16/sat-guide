@@ -1,0 +1,475 @@
+html, body {
+    font-family: "Raleway";
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.top {
+    white-space: nowrap;
+    color: white;
+    text-indent: 2%;
+}
+
+.me {
+    color: white
+}
+
+.info {
+    color: white;
+}
+
+.info:hover {
+    color: hotpink;
+}
+
+.info2 {
+    font-size: 22px;
+    color: blue;
+}
+
+.info2:hover {
+    color: orange;
+}
+.titles {
+    color: black;
+    width: 100%;
+    text-align: center;
+    line-height: 2.0;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.maintitle {
+    color: black;
+    width: 100%;
+    text-align: center;
+    line-height: 1.5;
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+    text-align: center;
+    font-size: 45px;
+}
+
+nav {
+    color:black;
+}
+
+.author {
+    text-align: center;
+}
+
+.descriptions {
+    line-height: 2.1;
+    font-weight: 500;
+}
+
+header {
+    background-color: #333333;
+    position:absolute;
+    width: 100%;
+    margin: 0 auto; width: 1519px;
+    
+}
+
+.indent {
+    text-indent: 1.3%;
+}
+
+.selectbox {
+    inset-block-start:unset;
+    position:relative; right: 530px; bottom: 243px;
+    display:inline;
+}
+
+footer {
+    background-color: #333333;
+    position:absolute;
+    width: 100%;
+    margin: 0 auto; width: 1519px;
+}
+
+.contact {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+.readingp {
+    position:relative; left: 30px;
+    display:inline;
+    line-height: 2.1;
+}
+
+.indent2 {
+    text-indent: 1%;
+    line-height: 1.9;
+    font-size: 25px;
+}
+
+.questionguide {
+    line-height: 1.9;
+    font-size: 20px
+}
+
+.readingexample1 {
+    position:relative; left: 68px;
+    display:inline;
+    height: 700px;
+}
+
+.readingexample2 {
+    position:relative; left: 64px;
+    display:inline;
+    height: 700px;
+}
+
+.introtoquestions {
+    line-height: 2.4;
+    text-indent: 1.3%;
+}
+
+.readingexample3 {
+    position:relative; left: 165px;
+    display:inline;
+    height: 700px;
+}
+
+.readingexample4 {
+    position:relative; left: 68px; top: 50px;
+    display:inline;
+}
+
+.picture4 {
+    height: 400px;
+    position: relative; bottom: 180px;
+}
+
+.introtocheck {
+    font-size: 25px;
+    font-weight: bolder;
+    position:relative; left: 82px;
+}
+
+.list {
+    position: relative; top: 100px; right: 550px;
+    display:inline-block;
+    line-height: 1.9;
+    font-size: 20px;
+}
+
+.selectbox2 {
+    position:relative; right: 790px; bottom: 205px;
+    display:inline;
+}
+
+.answerbox {
+    position:relative; left: 645px; bottom: 419px;
+}
+
+.selectbox3 {
+    position:relative; left: 383px; bottom: 380px;
+    
+}
+
+.subnav {
+    font-size: 15px;
+    color: rgb(239, 12, 12)
+}
+
+.subnav:hover {
+    color: green;
+}
+
+.selectbox4 {
+    position:relative; left: 123px; bottom: 342px;
+}
+
+.selectbox5 {
+    position:relative; right: 138px; bottom: 303px;
+}
+
+.selectbox6 {
+    position:relative; right: 398px; bottom: 265px;
+}
+
+.selectbox7 {
+    position:relative; right: 658px; bottom: 225px;
+}
+
+.selectbox8 {
+    position:relative; left: 589px; bottom: 215px;
+}
+
+.selectbox9 {
+    position:relative; left: 328px; bottom: 177px;
+}
+
+.selectbox10 {
+    position:relative; left: 68px; bottom: 138px;
+}
+
+.indent3 {
+    text-indent: 1.2%;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.strategies {
+    line-height: 2.1;
+}
+
+.writingexample1 {
+    position:relative; left: 68px;
+    display:inline;
+    height: 700px;
+}
+
+.writingexample2 {
+    position:relative; left: 165px;
+    display:inline;
+    height: 700px;
+}
+
+.writingexample3 {
+    position:relative; left: 68px; top: 50px;
+    display:inline;
+    height: 700px;
+}
+
+.picture5 {
+    height: 600px;
+    position: relative; bottom: 120px;
+}
+
+.introtocheck2 {
+    font-size: 25px;
+    font-weight: bolder;
+    position:relative; left: 30px;
+}
+
+.selectbox11 {
+    position:relative; right: 530px; bottom: 281px;
+}
+
+.checkanswerto11 {
+    position:relative; left: 903px; bottom: 595px;
+}
+
+.selectbox12 {
+    position:relative; left: 644px; bottom: 557px;
+}
+
+.selectbox13 {
+    position:relative; left: 384px; bottom: 519px;
+}
+
+.selectbox14 {
+    position:relative; left: 124px; bottom: 481px;
+}
+
+.selectbox15 {
+    position:relative; right: 136px; bottom: 442px;
+}
+
+.selectbox16 {
+    position:relative; right: 396px; bottom: 403px;
+}
+
+.selectbox17 {
+    position:relative; left: 850px; bottom: 389px;
+}
+
+.selectbox18 {
+    position:relative; left: 590px; bottom: 353px;
+}
+
+.selectbox19 {
+    position:relative; left: 330px; bottom: 315px;
+}
+
+.selectbox20 {
+    position:relative; left: 70px; bottom: 277px;
+}
+
+.selectbox21 {
+    position:relative; right: 190px; bottom: 239px;
+}
+
+.mathexample1 {
+    position:relative; left: 28px;
+    display:inline;
+    height: 700px;
+}
+
+.mathexample2 {
+    position:relative; left: 120px;
+    display:inline;
+    height: 700px;
+}
+
+.mathexample3 {
+    position:relative; left: 90px; top: 150px;
+    display:inline;
+    height: 600px;
+}
+
+.introtocheck3 {
+    font-size: 25px;
+    font-weight: bolder;
+    position:relative; left: 100px; bottom: 120px;
+}
+
+.picture6 {
+    height: 500px;
+    position: relative; bottom: 120px; right: 10px;
+}
+
+.multiplechoice {
+    font-size: 20px;
+    font-weight: bolder;
+    position: relative; left: 610px; bottom: 550px;
+}
+
+.mathlist {
+    line-height: 2.2;
+    font-size: 20px;
+}
+
+.selectbox22 {
+    position: relative; left: 150px; bottom: 406px;
+}
+
+.selectbox23 {
+    position: relative; right: 110px; bottom: 361px;
+}
+
+.selectbox24 {
+    position: relative; right: 369px; bottom: 316px;
+}
+
+.selectbox25 {
+    position: relative; right: 628px; bottom: 271px;
+}
+
+.selectbox26 {
+    position: relative; right: 888px; bottom: 227px;
+}
+
+.checkanswerto26 {
+    position: relative; right: 888px; bottom: 227px;
+}
+
+.selectbox27 {
+    position: relative; left: 209px; bottom: 209px;
+}
+
+.selectbox28 {
+    position: relative; right: 50px; bottom: 165px;
+}
+
+.selectbox29 {
+    position: relative; right: 310px; bottom: 121px;
+}
+
+.selectbox30 {
+    position: relative; right: 570px; bottom: 77px;
+}
+
+.mathnocalccheck {
+    text-indent: 2%;
+}
+
+.selectbox27pt1 {
+    position: relative; right: 1144px; bottom: 185px;
+}
+
+.mathcalcexample1 {
+    position:relative; left: 55px;
+    display:inline;
+    height: 700px;
+}
+
+.mathcalcexample2 {
+    position:relative; left: 155px;
+    display:inline;
+    height: 700px;
+}
+
+.mathcalcpicture {
+    position:relative; right: 50px; top: 35px;
+    display:inline;
+    height: 500px;
+    margin-bottom: -400px;
+}
+
+.introtocheck4 {
+    font-size: 25px;
+    font-weight: bolder;
+    position:relative; right: 35px; top: 27px;
+}
+
+.mathlist2 {
+    position: relative; bottom: 50px; left: 700px;
+    display:inline-block;
+    line-height: 2.2;
+    font-size: 20px;
+}
+
+.selectbox31 {
+    position: relative; left: 690px; bottom: 446px;
+}
+
+.selectbox32 {
+    position: relative; left: 430px; bottom: 402px;
+}
+
+.selectbox33 {
+    position: relative; left: 170px; bottom: 358px;
+}
+
+.selectbox34 {
+    position: relative; right: 89px; bottom: 314px;
+}
+
+.selectbox35 {
+    position: relative; right: 345px; bottom: 270px;
+}
+
+.selectbox36 {
+    position: relative; right: 602px; bottom: 226px;
+}
+
+.checkanswerto36 {
+    position: relative; left: 910px; bottom: 279px;
+}
+
+.selectbox37 {
+    position: relative; left: 649px; bottom: 235px;
+}
+
+.selectbox38 {
+    position: relative; left: 392px; bottom: 191px;
+}
+
+.selectbox39 {
+    position: relative; left: 131px; bottom: 147px;
+}
+
+.selectbox40 {
+    position: relative; right: 128px; bottom: 103px;
+
+}
+
+.aboutme {
+    line-height: 1.5px;
+}
+
+.lastlist {
+    margin-top: 10px;
+}
